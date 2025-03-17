@@ -1,0 +1,46 @@
+*{
+    margin: 10px;
+    padding: 0;
+    color: #ffffff;
+   
+   
+}
+body{
+    background: #15424d;
+    left: 10%;
+    right: 10%;
+}
+
+img:hover{
+    background-color: #3ea2e0;
+    color: white;
+   
+}
+img{
+    text-align: center;
+    border-color: #d9ebf5;
+    border-width: 2px;
+    border-style: solid;
+    width: 400px;
+    height: 300px;
+    cursor: pointer;
+    padding: 2px;
+    text-align: center;
+}
+button{
+    background-color: #166fa7;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    cursor: pointer;
+
+}
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+

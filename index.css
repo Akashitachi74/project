@@ -1,0 +1,88 @@
+*{
+    margin: 10px;
+    padding: 0; 
+}
+body{
+    background: #cae7ee;
+    left: 10%;
+    right: 10%;
+}
+nav{
+    background-color: #2bd3df;
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    cursor: pointer; 
+}
+li,h1,ul{
+    display: inline;    
+}
+ul{
+    margin-left: 60%;   
+}
+
+a{
+    color: rgb(18, 32, 163);   
+}
+a:hover{
+    color: rgb(255, 255, 255);
+}
+#header{
+    display: fixed;  
+}
+.home{
+    padding: 10px;
+    text-align: left;
+    border-style: solid;
+    border-color: #33b3f3;
+    background-color: #249dda;
+    color: white;
+    cursor: pointer; 
+}
+.projects{
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    border-style: solid;
+    border-color: #93d2f1;
+    background-color: #138bc7;
+    color: white;
+}
+img{
+    border-color: #d9ebf5;
+    border-width: 2px;
+    border-style: solid;
+    display: inline;
+    width: 400px;
+    height: 300px;
+    cursor: pointer;
+    padding: 2px; 
+
+}
+
+.project{
+    text-align: center;
+}
+img:hover{
+    background-color: #3ea2e0;
+    color: white;
+    background-color: #64b4db;
+}
+.box{
+    display: inline;
+    padding: 50px;
+    margin: 50px;
+    border-style: solid;
+    border-color: #93d2f1;
+    background-color: #64b4db;
+    color: white;
+    cursor: pointer; 
+}
+#contact{
+    text-align: center;
+    padding: 50px;
+    border-style: solid;
+    border-color: #93d2f1;
+    background-color: #0885c4;
+    color: white;
+    cursor: pointer; 
+}
